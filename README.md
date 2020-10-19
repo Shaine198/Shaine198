@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ## 👩 I'm currently taking up the course of Information System under CICT at WVSU Main.
 
-## 🌱 I’m currently learning GitHub, DartPad app, Technopreneurship, Data Enterprise architechture and more. 
+## 🌱 I’m currently learning GitHub, DartPad app, Technopreneurship, Data Enterprise architecture and more. 
 
 ## 🤔 I’m looking for help with my classmates and instructors. 
 
